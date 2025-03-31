@@ -1,4 +1,5 @@
-![스크린샷 2025-03-26 202128](https://github.com/user-attachments/assets/eb581812-107d-4229-8df4-a8d482ac3408)
+
+![image](https://github.com/user-attachments/assets/01545c0e-b058-48a2-82fb-a6726b43a72a)
 
 # 과제 2 - Q2: 감마 보정 (Gamma Correction)
 
